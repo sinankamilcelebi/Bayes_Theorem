@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://colab.research.google.com/github.com/sinankamilcelebi/Bayes_Theorem/blob/master/Bayes_Theorem.ipynb">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" width="150" height="50" alt="Open In Colab"/>
+</a>
+</p>
+
 # Bayes Theorem
 
 * @file     : Bayes_Theorem.ipynb
